@@ -1,4 +1,4 @@
-# OpenSolarHeater
+# Open Solar Heater
 Construction and Installation guidelines toward a Solar Heater Made of disposable packaging
 
 3.1-Step by step in building the solar collector
